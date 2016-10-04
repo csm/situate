@@ -1,5 +1,7 @@
 # situate
 
+[![Clojars Project](https://img.shields.io/clojars/v/situate.svg)](https://clojars.org/situate)
+
 Very much like `lein deploy`, but with fewer features.
 
 ## Usage
