@@ -1,4 +1,4 @@
-(defproject situate "0.1.1"
+(defproject situate "0.1.2-SNAPSHOT"
   :description "Deploy to a maven repo with implicit authentication"
   :url "http://github.com/csm/lein-situate"
   :license {:name "Eclipse Public License"
